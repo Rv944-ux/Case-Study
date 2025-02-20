@@ -14,31 +14,39 @@ Response
 
 Root Causes
 
-1. Weak cybersecurity infrastructure, including unencrypted sensitive data and poor access controls. 2. Failure to take initial threat warnings seriously, leading to unpreparedness for the attack.
+1. Weak cybersecurity infrastructure, including unencrypted sensitive data and poor access controls.
+2. Failure to take initial threat warnings seriously, leading to unpreparedness for the attack.
 
 Actions Taken
 
-1. Sony conducted internal investigations and collaborated with the FBI and cybersecurity firms. 2. The company enhanced cybersecurity measures, including strengthening network security and employee training.
+1. Sony conducted internal investigations and collaborated with the FBI and cybersecurity firms.
+2. The company enhanced cybersecurity measures, including strengthening network security and employee training.
 
 Effectiveness & Timeliness
 
-1. The response helped mitigate future risks but came too late to prevent the attack's impact. 2. While security was improved, the reputational and financial damage was irreversible.
+1. The response helped mitigate future risks but came too late to prevent the attack's impact.
+2. While security was improved, the reputational and financial damage was irreversible.
 
 Successes, Gaps, & Failures
 
-Success: Sony improved cybersecurity post-attack. Gap: Lack of initial incident detection and response. Failure: Mishandling of pre-attack warnings.
+Success: Sony improved cybersecurity post-attack. 
+Gap: Lack of initial incident detection and response. 
+Failure: Mishandling of pre-attack warnings.
 
 Impact on Organization
 
-1. Financial loss of approximately $15 million in damages and increased cybersecurity investment. 2. Reputational damage and leadership restructuring, including the resignation of co-chairperson Amy Pascal.
+1. Financial loss of approximately $15 million in damages and increased cybersecurity investment.
+2. Reputational damage and leadership restructuring, including the resignation of co-chairperson Amy Pascal.
 
 Lessons Learned
 
-1. Proactive threat detection and response are essential. 2. Stronger data encryption and employee cybersecurity training are necessary to prevent future breaches.
+1. Proactive threat detection and response are essential.
+2. Stronger data encryption and employee cybersecurity training are necessary to prevent future breaches.
 
 Recommendations
 
-1. Implement advanced threat intelligence and monitoring systems. 2. Establish a crisis management protocol to swiftly address cybersecurity incidents.
+1. Implement advanced threat intelligence and monitoring systems.
+2. Establish a crisis management protocol to swiftly address cybersecurity incidents.
 
 Conclusion
 
